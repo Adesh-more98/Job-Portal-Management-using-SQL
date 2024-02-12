@@ -11,7 +11,7 @@ I have also uploaded all the files in the repository including SQL scripts, plea
 <br>
 <br>
 
-### Navigation of the system:
+### Below are the navigation, conceptual and logical diagrams:
 <br>
 <p align="center">
   <img width="100%" src="navigation.png" />
