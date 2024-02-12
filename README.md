@@ -12,14 +12,19 @@ I have also uploaded all the files in the repository including SQL scripts, plea
 <br>
 
 ### Navigation of the system:
+<br>
 <p align="center">
   <img width="100%" src="navigation.png" />
 </p>
 <br>
 <br>
+### Conceptual Diagram:
+<br>
 <p align="center">
   <img width="100%" src="Conceptual.png" />
 <br>
+<br>
+### Logical(ER) Diagram:
 <br>
 <p align="center">
   <img width="100%" src="Logical(ER).png" />
